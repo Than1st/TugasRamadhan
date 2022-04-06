@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TugasRamadhan</string>
+    <string name="hint_barang">Nama Barang...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Barang not saved because it is empty.</string>
+    <string name="add_barang">Add Barang</string>
+</resources>
